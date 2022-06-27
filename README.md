@@ -1,5 +1,5 @@
-# Nadhemni
-C# Desktop Application (Bunifu, Guna, Metro, Microsoft SQL Server) 
+# Nadhemni (Organize-me)
+C# Desktop Application (Bunifu, Guna, Metro, Microsoft SQL Server) named Nadhemni (Organize me) allowing the improvement of the organization of your private and professional life (schedule, appointments, homework, bills...) in the form of reminders.
 
 When your download this project and before unzipping your file don't forget to:
   1) Right-click on the zipped file 
