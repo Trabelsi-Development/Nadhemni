@@ -8,9 +8,6 @@ When your download this project and before unzipping your file don't forget to:
   4) Click the "Unblock" button.
   5) Unzip the files and open the solution in Visual Studio.
 
-For more details, see this PDF: 
-[edbd-project-2019.pdf](https://github.com/Trabelsi-Development/Nadhemni/files/8995167/edbd-project-2019.pdf)
-
 Here is a video explaining the project (the quality is not that good because of the maximum limit of MB):
 
 https://user-images.githubusercontent.com/59179174/176022872-87a4c332-3d3a-4379-b645-76127a2fabc5.mp4
